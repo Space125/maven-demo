@@ -6,7 +6,7 @@ Demo project for description maven build tool.
 Run next commands to see and understand the abilities of this tool:
 ```shell script
 mvn clean test
-mvn clean comlile
+mvn clean compile
 mvn clean package
 mvn clean install
 ```
